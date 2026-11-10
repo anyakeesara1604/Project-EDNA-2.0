@@ -1,3 +1,11 @@
+## 🚧 Project Status
+
+**Currently in Development**
+
+EDNA 2.0 is an ongoing project. The initial website and project documentation have been published, while further development, improvements and refinements are still in progress.
+
+This repository will be updated as the project evolves.
+
 # EDNA 2.0 🌍
 
 **An interactive exploration of a futuristic orbital space settlement inspired by the NASA Ames Space Settlement Contest.**
